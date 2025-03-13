@@ -1,4 +1,4 @@
-unction getPostsFromAPI() {
+function getPostsFromAPI() {
   // Replace this with the URL of the JSON API that returns an array of image URLs
   const url = 'https://3000-es8991-tacogramfinal-zjdggv1fk0g.ws-us118.gitpod.io';
   if (url == 'YOUR_URL_GOES_HERE') {
